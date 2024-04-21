@@ -1,0 +1,14 @@
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\bin\Debug\net7.0\programma.exe
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\bin\Debug\net7.0\programma.deps.json
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\bin\Debug\net7.0\programma.runtimeconfig.json
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\bin\Debug\net7.0\programma.dll
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\bin\Debug\net7.0\programma.pdb
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.dll
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\refint\programma.dll
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.pdb
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\programma.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Рабочий стол\Docs\учеба\CcContr\programma\obj\Debug\net7.0\ref\programma.dll
